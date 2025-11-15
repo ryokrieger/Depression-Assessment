@@ -18,6 +18,11 @@ imblearn
 torch
 tensorflow
 
+# optimisation
+scikit-optimize
+deap
+optuna
+
 # explainability
 lime
 shap
