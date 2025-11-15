@@ -20,8 +20,6 @@ tensorflow
 
 # optimisation
 scikit-optimize
-deap
-optuna
 
 # explainability
 lime
